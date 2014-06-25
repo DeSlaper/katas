@@ -1,0 +1,12 @@
+
+
+Code Coverage Report:     
+  2014-06-24 23:05:44     
+                          
+ Summary:                 
+  Classes: 100.00% (1/1)  
+  Methods: 100.00% (8/8)  
+  Lines:   100.00% (27/27)
+
+BowlingGame
+  Methods: 100.00% ( 8/ 8)   Lines: 100.00% ( 27/ 27)
